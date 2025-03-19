@@ -1,6 +1,6 @@
-# 📝 Lista de Exercícios - Inteligência e Análise de Dados
+# 📝 Lista de Exercícios - Estrutura de Dados
 
-Este repositório contém a **primeira lista de exercícios** da disciplina de **Inteligência e Análise de Dados**, da **minha faculdade**. A lista foi realizada e solicitada pela **professora Aruane**. O objetivo dessa lista de exercícios é aplicar conceitos básicos de programação em Python, trabalhar com manipulação de dados e resolver problemas matemáticos e lógicos utilizando estruturas de dados, loops e funções.
+Este repositório contém a **primeira lista de exercícios** da disciplina de **Estrutura de Dados**, da **minha faculdade** de **Inteligência e Análise de Dados**. A lista foi realizada e solicitada pela **professora Aruane**. O objetivo dessa lista de exercícios é aplicar conceitos básicos de programação em Python, trabalhar com manipulação de dados e resolver problemas matemáticos e lógicos utilizando estruturas de dados, loops e funções.
 
 ## 🎯 Descrição
 
